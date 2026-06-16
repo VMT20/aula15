@@ -39,3 +39,4 @@ jobs:
       - name: Push Image
         run: |
           docker push vmt20/aula-devops:1.0
+          
